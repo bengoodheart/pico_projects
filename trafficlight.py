@@ -62,8 +62,7 @@ def crazy_pattern():
     utime.sleep(.2)
     stop_all()
     utime.sleep(.2)
-
-
+    
 
 while True:        
     regular_pattern()
@@ -75,10 +74,3 @@ while True:
        
 
 #stop_all()
-    
-
-
-
-
-    
-    
